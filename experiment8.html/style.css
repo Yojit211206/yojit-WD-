@@ -1,0 +1,19 @@
+body{
+    font-family: georgia, serif;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+
+.container{
+    background-color: lightpink;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    border: 2px solid #007bff;
+
+}
